@@ -1,0 +1,227 @@
+body{
+   margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.Line{
+    width: 1519px;
+    height: 1.5px;
+    background-color:#c9b70d ;
+}
+nav{
+    background-color:#111111;
+    font-family: Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    color: white;
+    padding-left: 50px;
+    width: 1468px;
+    height: 60px;
+    
+}
+.logo{
+   position: relative;
+   left: 96px;
+    height: 60px;
+    width: 107px;
+  
+}
+.navtxt li{
+    position: relative;
+    top: -66px;
+    left: 224px;
+    bottom: 32px;
+   float: left;
+   padding: 9px;
+   height: 20px;
+   font-size: 12px;
+   display: flex;
+}
+.nav2{
+    position: absolute;
+    background: transparent;
+    font-weight: 700;
+    font-family: Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    color: white;
+    width: 1461px;
+    height: 88px;  
+}
+.navtxt2{
+    position: relative;
+    left: 218px;
+    padding-left: 49px;
+    top:21px ;
+    float: left;
+    display: flex;
+    font-size: 14px;
+    color: white;
+}
+    .img{
+        position: absolute;
+        width: 1519px;
+        height: 616px;
+    }
+    .icon{
+        position: relative;
+     top: 275px;
+     left: 55px;
+      
+    }
+    .icon2{
+     position: relative;
+     top: 275px;
+     left: 1375px;
+    }
+    .div1{
+        background-color: black;
+        height: 920px;
+        width: 1510px;
+    }
+    .divimgs{
+    position: relative;
+    top: 506px;
+    left: 135px;
+    margin-top: 71px;
+    padding-left: 10px;
+    }
+    .txt{
+        margin: 0;
+        text-align: center;
+        width: 1510px;
+        height: 70px;
+        background-color:black;
+        color: white;
+        font-weight: 900;
+        font-family: Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    }
+    .vdo{
+
+        background-color: black;
+        position:relative;
+        width: 1510px;
+        height: 440px;
+        
+    }
+    .V1{
+        margin: 5px;
+        position: relative;
+        left: 140px;
+        height: 320px;
+        width: 398px;
+    }
+    .footer{
+       margin-top: 54px;
+        width: 1519px;
+        height: 120px;
+        background-color: #161718;
+        color: white;
+
+    }
+    .footer1{
+        position: relative;
+        left: 152px;
+        font-size: 20px;
+        top: 37px;
+        width: 213px;
+        font-family:  Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    }
+    .footer2{
+        width: 215px;
+        position: relative;
+        left: 152px;
+        color:#9b9b9b ;
+        font-size: 12px;
+        top: 15px;
+        font-family:  Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+
+    }
+    .button{
+        position: relative;
+        left: 409px;
+        top: -36px;
+        color: #adadad;
+        background: transparent;
+        border-color: #9b9b9b;
+        border-style: solid;
+        border-width: 1px;
+        height: 39px;
+        width: 267px;
+    }
+    .footer3{
+        width: 200px;
+        position: relative;
+        left: 898px;
+        font-size: 20px;
+        top: -93px;
+        font-family:  Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    }
+    .footer4{
+        width: 200px;
+        position: relative;
+        left: 901px;
+        color:#9b9b9b ;
+        font-size: 12px;
+        top: -114px;
+        font-family: Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    }
+    .Fimg{
+     position: relative;
+    left: 1093px;
+    top: -175px;
+    height: 56px;
+    width: 178px;
+    }
+    .footertable{
+        width: 1510px;
+        height: 232;
+    }
+    
+
+.table{
+    position: relative;
+    left: 14px;
+    top: 8px;
+}
+.heading{
+    color: white;
+    font-weight: 600;
+    font-family: Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif ;
+    font-size: 14px;
+   width: 500px;
+   position: relative;
+   left: 137px;
+ 
+   top: 40px;
+}    
+    .contents{
+        
+       color: rgb(171, 171, 171);
+       font-family: Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif ;
+       font-size: 14px;
+       width: 500px;
+       position: relative;
+       left: 137px;
+       line-height: 30px;
+       top: 50px;
+    }
+    .underL{
+        position: relative;
+        top: 80px;
+     
+      
+    }
+    .copyright{
+        position: relative;
+        top: 98px;
+        left: 150px;
+        width: 900px;
+        height: 48px;
+        color: rgb(171, 171, 171);
+        font-family: Roboto,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif ;
+      font-size: 14px;
+    }
+    .navtxt2:hover,.navtxt2:active{
+        color: rgb(255, 216, 62);
+    }
+    .button:hover,.button:active{
+       color: white;
+    }
+    
